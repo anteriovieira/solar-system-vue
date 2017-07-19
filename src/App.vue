@@ -36,6 +36,7 @@ export default {
     //   this.$el.removeClass('hide-UI').addClass('set-speed')
     //   this.$el.dequeue()
     // })
+    // https://codepen.io/juliangarnier/pen/idhuG?editors=0010
   }
 }
 </script>
